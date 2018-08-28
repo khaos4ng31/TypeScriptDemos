@@ -33,7 +33,3 @@ class Calculator {
 window.onload = function () {
     var calc = new Calculator('X','Y','Output');
 };
-
-
-
-
