@@ -1,0 +1,8 @@
+{
+  "description": "Concatenator Example",
+  "files":[
+    "!**/*.d.ts",
+    "!**/*.js"
+  ],
+  "tags": ["typescript"]
+}

@@ -1,0 +1,8 @@
+{
+  "description": "textfilegrabber Example",
+  "files":[
+    "!**/*.d.ts",
+    "!**/*.js"
+  ],
+  "tags": ["typescript"]
+}
